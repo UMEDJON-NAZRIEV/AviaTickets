@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e37df4b1-b887-4d60-bc1c-f9c96d73e457" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../src/js/config/apiConfig.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/js/helpers/analytics.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/js/helpers/cities.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/js/helpers/currency.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/js/helpers/date.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/js/plugins/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/js/plugins/materialize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/js/services/apiServices.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/js/store/addFavorite.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/js/store/location.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/js/store/locationFav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/js/view/formUI.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/js/view/tickets.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/js/view/valideate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.f998d1f5c887ad881d0f.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.f998d1f5c887ad881d0f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Fb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/HTML_CSS.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Instagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/JavaScript_Vue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Tel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Twitter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Whatsapp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/face.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/foo2 .png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/foo3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/foo4 .png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/foo5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/foo6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/footer1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/project1png.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/project2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/project3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/siluet.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/viber.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/polyfill.f998d1f5c887ad881d0f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/img/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/img/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/img/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/img/Fb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/img/HTML_CSS.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/img/Instagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/img/JavaScript_Vue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/img/Tel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/img/Twitter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/img/Whatsapp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/img/circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/img/face.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/img/foo2 .png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/img/foo3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/img/foo4 .png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/img/foo5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/img/foo6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/img/footer1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/img/project1png.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/img/project2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/img/project3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/img/siluet.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/img/viber.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../src/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/css/style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/js/aniamtion.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/js/import.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/js/other.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1rLvINFWKen8uDBKzK4Bsk5qbnR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e37df4b1-b887-4d60-bc1c-f9c96d73e457" name="Default Changelist" comment="" />
+      <created>1618768104154</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618768104154</updated>
+      <workItem from="1618768105232" duration="269000" />
+      <workItem from="1618768407989" duration="37000" />
+      <workItem from="1618768606877" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TerminalProjectNonSharedOptionsProvider">
+    <option name="shellPath" value="E:\Git\bin\bash.exe" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="580" y="171" key="FileChooserDialogImpl" timestamp="1618768372596">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="171" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1618768372596" />
+    <state x="380" y="173" key="IDE.errors.dialog" timestamp="1618768340358">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="380" y="173" key="IDE.errors.dialog/0.0.1600.860@0.0.1600.860" timestamp="1618768340358" />
+    <state x="301" y="75" key="SettingsEditor" timestamp="1618768628852">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="75" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1618768628852" />
+  </component>
+</project>

@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"
+          name="viewport">
+    <meta content="ie=edge" http-equiv="X-UA-Compatible">
+    <title>Avia Tickets</title>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<link href="app.29cdc1c8f1c3fca71f95.css" rel="stylesheet"></head>
+<body>
+<div class="wrapper" id="test">
+<nav class="#6a1b9a purple darken-3">
+    <div class="container">
+        <div class="nav-wrapper d-flex align-items-center">
+            <div class="logo d-flex align-items-center">
+                <a class="brand-logo" href="#">Avia Tickets</a>
+                <i class="material-icons">flight_takeoff</i>
+            </div>
+            <ul class="right hide-on-med-and-down ml-auto" id="nav-mobile">
+                <li>
+                    <div class="input-field">
+                        <select id="currency">
+                            <option value="USD">$ USD</option>
+                            <option value="EUR">€ EUR</option>
+                            <option value="RUB">₽ RUB</option>
+                        </select>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+<div class="container">
+    <div class="row pwa-down">
+        <div class="col s12 m7">
+            <div class="card card-form">
+                <form name="sendFormControl" id="sendForm">
+                    <div class="card-content">
+                        <div class="input-field">
+                            <input class="autocomplete" id="autocomplete-origin" type="text">
+                            <label for="autocomplete-origin">Origin</label>
+                        </div>
+                        <div class="input-field">
+                            <input class="autocomplete" id="autocomplete-destination" type="text">
+                            <label for="autocomplete-destination">Destination</label>
+                        </div>
+                        <div class="input-field">
+                            <input class="datepicker" id="departPicker" type="text">
+                            <label for="departPicker">Date depart</label>
+                        </div>
+                        <div class="input-field">
+                            <input class="datepicker" id="returnPicker" type="text">
+                            <label for="returnPicker">Date return</label>
+                        </div>
+                    </div>
+                    <div class="card-action d-flex justify-content-between">
+                        <button class="btn  #b71c1c red darken-1 waves-effect waves-light" name="action" type="reset">
+                            Cancel
+                            <i class="material-icons right">cancel</i>
+                        </button>
+                        <button class="btn waves-effect waves-light" name="action" type="submit">Submit
+                            <i class="material-icons right">send</i>
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <div class="pwa">
+            <div class="card">
+                <i class="material-icons right">home</i>
+                <i class="material-icons right">favorite</i>
+                <i class="material-icons right">label</i>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="tickets-sections">
+    <div class="container">
+        <div class="row" id="container">
+
+        </div>
+    </div>
+</div>
+</div>
+<script type="text/javascript" src="polyfill.29cdc1c8f1c3fca71f95.js"></script><script type="text/javascript" src="app.29cdc1c8f1c3fca71f95.js"></script></body>
+</html>
